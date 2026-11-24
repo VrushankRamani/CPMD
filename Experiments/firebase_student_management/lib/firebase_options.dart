@@ -41,47 +41,47 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBfqafgExfRyr4u6LEq0sDkm_HSLltaXyQ',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
     appId: '1:947196018942:ios:0b5f73fce95b5f91efe5af',
     messagingSenderId: '947196018942',
-    projectId: 'cpmad-exp-11',
-    storageBucket: 'cpmad-exp-11.firebasestorage.app',
+    projectId: 'cpmd-6bf0b',
+    storageBucket: 'cpmd-6bf0b.firebasestorage.app',
     iosBundleId: 'com.example.firebaseStudentManagement',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBfqafgExfRyr4u6LEq0sDkm_HSLltaXyQ',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
     appId: '1:947196018942:ios:0b5f73fce95b5f91efe5af',
     messagingSenderId: '947196018942',
-    projectId: 'cpmad-exp-11',
-    storageBucket: 'cpmad-exp-11.firebasestorage.app',
+    projectId: 'cpmd-6bf0b',
+    storageBucket: 'cpmd-6bf0b.firebasestorage.app',
     iosBundleId: 'com.example.firebaseStudentManagement',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDhXgepJaUNJiLA2aZ3h8f6H-HdJFE69Pc',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
     appId: '1:947196018942:web:78b2a565bf92611defe5af',
     messagingSenderId: '947196018942',
-    projectId: 'cpmad-exp-11',
-    authDomain: 'cpmad-exp-11.firebaseapp.com',
-    storageBucket: 'cpmad-exp-11.firebasestorage.app',
+    projectId: 'cpmd-6bf0b',
+    authDomain: 'cpmd-6bf0b.firebaseapp.com',
+    storageBucket: 'cpmd-6bf0b.firebasestorage.app',
     measurementId: 'G-7BQ170NEB3',
   );
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDhXgepJaUNJiLA2aZ3h8f6H-HdJFE69Pc',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
     appId: '1:947196018942:web:78b2a565bf92611defe5af',
     messagingSenderId: '947196018942',
-    projectId: 'cpmad-exp-11',
-    authDomain: 'cpmad-exp-11.firebaseapp.com',
-    storageBucket: 'cpmad-exp-11.firebasestorage.app',
+    projectId: 'cpmd-6bf0b',
+    authDomain: 'cpmd-6bf0b.firebaseapp.com',
+    storageBucket: 'cpmd-6bf0b.firebasestorage.app',
     measurementId: 'G-7BQ170NEB3',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA4tgASqQ9Lg8J0xEFvYSUz7BU8vYidRE0',
-    appId: '1:947196018942:android:d1201eb8759c1775efe5af',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
+    appId: '1:706550004267:android:1774ace98b69e94829486e',
     messagingSenderId: '947196018942',
-    projectId: 'cpmad-exp-11',
-    storageBucket: 'cpmad-exp-11.firebasestorage.app',
+    projectId: 'cpmd-6bf0b',
+    storageBucket: 'cpmd-6bf0b.firebasestorage.app',
   );
 }

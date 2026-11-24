@@ -47,28 +47,28 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCY2mxnNxeDwgilqYG8JDjgaKO4vO0rb5k',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
     appId: '1:590591760294:web:957e305166c7fd1c0c2167',
     messagingSenderId: '590591760294',
-    projectId: 'campus-connect-53fb8',
-    authDomain: 'campus-connect-53fb8.firebaseapp.com',
-    storageBucket: 'campus-connect-53fb8.firebasestorage.app',
+    projectId: 'cpmd-6bf0b',
+    authDomain: 'cpmd-6bf0b.firebaseapp.com',
+    storageBucket: 'cpmd-6bf0b.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB5fvxWLrGKnjFUFmcKXMPES_y7tWFWDJo',
-    appId: '1:590591760294:android:8822dc254fe801440c2167',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
+    appId: '1:706550004267:android:1774ace98b69e94829486e',
     messagingSenderId: '590591760294',
-    projectId: 'campus-connect-53fb8',
-    storageBucket: 'campus-connect-53fb8.firebasestorage.app',
+    projectId: 'cpmd-6bf0b',
+    storageBucket: 'cpmd-6bf0b.firebasestorage.app',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCY2mxnNxeDwgilqYG8JDjgaKO4vO0rb5k',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
     appId: '1:590591760294:web:d2815f51fbba8dea0c2167',
     messagingSenderId: '590591760294',
-    projectId: 'campus-connect-53fb8',
-    authDomain: 'campus-connect-53fb8.firebaseapp.com',
-    storageBucket: 'campus-connect-53fb8.firebasestorage.app',
+    projectId: 'cpmd-6bf0b',
+    authDomain: 'cpmd-6bf0b.firebaseapp.com',
+    storageBucket: 'cpmd-6bf0b.firebasestorage.app',
   );
 }

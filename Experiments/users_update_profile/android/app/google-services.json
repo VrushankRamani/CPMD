@@ -1,13 +1,51 @@
 {
   "project_info": {
-    "project_number": "947196018942",
-    "project_id": "cpmad-exp-11",
-    "storage_bucket": "cpmad-exp-11.firebasestorage.app"
+    "project_number": "706550004267",
+    "project_id": "cpmd-6bf0b",
+    "storage_bucket": "cpmd-6bf0b.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:947196018942:android:d1201eb8759c1775efe5af",
+        "mobilesdk_app_id": "1:706550004267:android:1774ace98b69e94829486e",
+        "android_client_info": {
+          "package_name": "com.example.realtime_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706550004267:android:1774ace98b69e94829486e",
+        "android_client_info": {
+          "package_name": "com.example.chat_screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706550004267:android:1774ace98b69e94829486e",
         "android_client_info": {
           "package_name": "com.example.firebase_student_management"
         }
@@ -15,7 +53,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA4tgASqQ9Lg8J0xEFvYSUz7BU8vYidRE0"
+          "current_key": "AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc"
         }
       ],
       "services": {
@@ -26,34 +64,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:947196018942:android:e21580d98b3405f7efe5af",
+        "mobilesdk_app_id": "1:706550004267:android:1774ace98b69e94829486e",
         "android_client_info": {
-          "package_name": "com.example.password_reset_and_update"
+          "package_name": "com.example.campus_connect"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA4tgASqQ9Lg8J0xEFvYSUz7BU8vYidRE0"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:947196018942:android:df7a00bd8c7024f1efe5af",
-        "android_client_info": {
-          "package_name": "com.example.users_update_profile"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyA4tgASqQ9Lg8J0xEFvYSUz7BU8vYidRE0"
+          "current_key": "AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc"
         }
       ],
       "services": {

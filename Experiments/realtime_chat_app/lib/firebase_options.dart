@@ -47,27 +47,27 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDqYbadJCVPNtNz08S4aNEyKkm8R09XJH8',
-    appId: '1:247788618414:android:169ba0b07056bd322fe33f',
-    messagingSenderId: '247788618414',
-    projectId: 'real-time-chat-app-c97b2',
-    storageBucket: 'real-time-chat-app-c97b2.firebasestorage.app',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
+    appId: '1:706550004267:android:1774ace98b69e94829486e',
+    messagingSenderId: '706550004267',
+    projectId: 'cpmd-6bf0b',
+    storageBucket: 'cpmd-6bf0b.firebasestorage.app',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBI0WgGexU56b4VWu2dxmtQelpXliTSPqU',
-    appId: '1:247788618414:web:f3ba523d03b10b522fe33f',
-    messagingSenderId: '247788618414',
-    projectId: 'real-time-chat-app-c97b2',
-    authDomain: 'real-time-chat-app-c97b2.firebaseapp.com',
-    storageBucket: 'real-time-chat-app-c97b2.firebasestorage.app',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
+    appId: '1:706550004267:web:f3ba523d03b10b522fe33f',
+    messagingSenderId: '706550004267',
+    projectId: 'cpmd-6bf0b',
+    authDomain: 'cpmd-6bf0b.firebaseapp.com',
+    storageBucket: 'cpmd-6bf0b.firebasestorage.app',
   );
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBI0WgGexU56b4VWu2dxmtQelpXliTSPqU',
-    appId: '1:247788618414:web:f3ba523d03b10b522fe33f',
-    messagingSenderId: '247788618414',
-    projectId: 'real-time-chat-app-c97b2',
-    authDomain: 'real-time-chat-app-c97b2.firebaseapp.com',
-    storageBucket: 'real-time-chat-app-c97b2.firebasestorage.app',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
+    appId: '1:706550004267:web:f3ba523d03b10b522fe33f',
+    messagingSenderId: '706550004267',
+    projectId: 'cpmd-6bf0b',
+    authDomain: 'cpmd-6bf0b.firebaseapp.com',
+    storageBucket: 'cpmd-6bf0b.firebasestorage.app',
   );
 }

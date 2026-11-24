@@ -47,30 +47,30 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDhXgepJaUNJiLA2aZ3h8f6H-HdJFE69Pc',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
     appId: '1:947196018942:web:78b2a565bf92611defe5af',
     messagingSenderId: '947196018942',
-    projectId: 'cpmad-exp-11',
-    authDomain: 'cpmad-exp-11.firebaseapp.com',
-    storageBucket: 'cpmad-exp-11.firebasestorage.app',
+    projectId: 'cpmd-6bf0b',
+    authDomain: 'cpmd-6bf0b.firebaseapp.com',
+    storageBucket: 'cpmd-6bf0b.firebasestorage.app',
     measurementId: 'G-7BQ170NEB3',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA4tgASqQ9Lg8J0xEFvYSUz7BU8vYidRE0',
-    appId: '1:947196018942:android:df7a00bd8c7024f1efe5af',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
+    appId: '1:706550004267:android:1774ace98b69e94829486e',
     messagingSenderId: '947196018942',
-    projectId: 'cpmad-exp-11',
-    storageBucket: 'cpmad-exp-11.firebasestorage.app',
+    projectId: 'cpmd-6bf0b',
+    storageBucket: 'cpmd-6bf0b.firebasestorage.app',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDhXgepJaUNJiLA2aZ3h8f6H-HdJFE69Pc',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
     appId: '1:947196018942:web:b0c6b58be1b6380fefe5af',
     messagingSenderId: '947196018942',
-    projectId: 'cpmad-exp-11',
-    authDomain: 'cpmad-exp-11.firebaseapp.com',
-    storageBucket: 'cpmad-exp-11.firebasestorage.app',
+    projectId: 'cpmd-6bf0b',
+    authDomain: 'cpmd-6bf0b.firebaseapp.com',
+    storageBucket: 'cpmd-6bf0b.firebasestorage.app',
     measurementId: 'G-8VBX52LZE5',
   );
 }

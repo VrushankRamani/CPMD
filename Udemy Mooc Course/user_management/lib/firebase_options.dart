@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDJ7ONWP-pD7VYBsaGzuKOW41FpFB8EjqQ',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
     appId: '1:780741443618:web:09171a637a0a67057c8a7b',
     messagingSenderId: '780741443618',
     projectId: 'user-mgnt-udemy',
@@ -51,15 +51,15 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAQMCSsijIUzWyYjKdCNAiKP-iqV66m6vs',
-    appId: '1:780741443618:android:f158ad5bfb8e20aa7c8a7b',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
+    appId: '1:706550004267:android:1774ace98b69e94829486e',
     messagingSenderId: '780741443618',
     projectId: 'user-mgnt-udemy',
     storageBucket: 'user-mgnt-udemy.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAzmEM7jcWLI20xKAfSIQcr2hXtgrTGzHo',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
     appId: '1:780741443618:ios:0a537077518cfa257c8a7b',
     messagingSenderId: '780741443618',
     projectId: 'user-mgnt-udemy',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAzmEM7jcWLI20xKAfSIQcr2hXtgrTGzHo',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
     appId: '1:780741443618:ios:0a537077518cfa257c8a7b',
     messagingSenderId: '780741443618',
     projectId: 'user-mgnt-udemy',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDJ7ONWP-pD7VYBsaGzuKOW41FpFB8EjqQ',
+    apiKey: 'AIzaSyA4Ik7uZeDYb1761UGp8z0kPbxJQDVpfEc',
     appId: '1:780741443618:web:17a60b404be079dc7c8a7b',
     messagingSenderId: '780741443618',
     projectId: 'user-mgnt-udemy',
